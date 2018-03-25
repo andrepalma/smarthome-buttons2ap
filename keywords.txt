@@ -1,0 +1,33 @@
+#########################################
+# Syntax Coloring Map For buttons2
+#########################################
+
+#######################################################
+# The Arduino IDE requires the use of a tab separator
+# between the name and identifier. Without this tab the
+# keyword is not highlighted.
+#
+# Reference: https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5:-Library-specification#keywords
+#######################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+buttons	KEYWORD1
+butoes	KEYWORD1
+click	KEYWORD1
+doubleclick	KEYWORD1
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
