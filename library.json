@@ -1,5 +1,5 @@
 {
-  "name": "buttons2ap",
+  "name": "buttons2apgen",
   "version": "1.0.0",
   "keywords": "buttons",
   "description": "Buttons with click, doubleclick",
@@ -14,7 +14,7 @@
       "email": "reguila2@gmail.com"
     },
 	{
-	  "name": "By Jeff Saltzman"
+	  "name": "Adpated from librarie By Jeff Saltzman"
 	}
   ],
   "frameworks": "arduino",
